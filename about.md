@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-date: 3-3-17
+date: 17-3-3
 ---
 
 <p class="message">
