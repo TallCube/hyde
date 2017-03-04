@@ -4,8 +4,6 @@ title: Data Analysis (Weeks 3 & 4)
 date: 17-3-4
 ---
 
-# Marketing Optimization Update
-
 ## This Week's Topic: Conversion and Transaction Analysis
 
 ### Testing Status
