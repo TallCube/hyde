@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Analysis (Weeks 3 & 4)
+title: Zeta Analysis (Weeks 3 & 4)
 date: 17-5-5
 ---
 
