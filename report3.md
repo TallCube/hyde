@@ -29,3 +29,22 @@ In the interest of brevity and clarity, we have opted to include data samples of
 Some sets of conclusions will be given in list format without supporting data. If you become skeptical of any particular conclusion, please feel free to ask us for supporting evidence and we will be happy to elaborate and/or clarify. 
 
 As always, we're careful to highlight the difference between data-driven analysis and if-this-then-maybe-that hypotheses. 
+
+## Table Formatting Check
+
+You must always ensure that table formatting is done as well as possible. If your tables aren't in tip-top shape, then how can you call yourself a true master of the grid?
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+If you look closely you'll see that there are some major things in that thing.
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| poopy   |     Filler          |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
