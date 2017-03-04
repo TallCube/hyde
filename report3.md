@@ -34,10 +34,11 @@ As always, we're careful to highlight the difference between data-driven analysi
 
 You must always ensure that table formatting is done as well as possible. If your tables aren't in tip-top shape, then how can you call yourself a true master of the grid?
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Priority apples | Second priority | Third priority |
+|-------|--------|---------|
+| ambrosia | gala | red delicious |
+| pink lady | jazz | macintosh |
+| honeycrisp | granny smith | fuji |
 
 If you look closely you'll see that there are some major things in that thing.
 
