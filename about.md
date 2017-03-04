@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: About
 date: 3-3-17
 ---
