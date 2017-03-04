@@ -21,13 +21,13 @@
       {% for node in posts_list %}
         {% if node.title != null %}
           {% if node.layout == "post" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}/hyde/">{{ node.title }}</a>
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/hyde/{{ page.url }}">{{ node.title }}</a>
           {% endif %}
         {% endif %}
       {% endfor %}
 
     </nav>
     <p></p>
-    <img src="https://cdn.milkstork.com/icon-ship.png" width="38%" align="left"><img src="https://www.tallcube.com/wp-content/themes/X5/assets/images/logo.svg" align="right" width="30%">
+    <img src="https://cdn.milkstork.com/icon-ship.png" width="39%" align="left"><img src="https://www.tallcube.com/wp-content/themes/X5/assets/images/logo.svg" align="right" width="30%">
   </div>
 </div>
